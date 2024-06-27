@@ -15,6 +15,9 @@
 <a href="https://www.linkedin.com/in/yuvika-hakoo-7b562520a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yuvikahakoo/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/yuvikahakoo/"><img align="center" src="https://images.rawpixel.com/image_png_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIyLTA1L3JtNTMzLW5lb24tMDAzLnBuZw.png" height="30" width="40"/></a>
 <a href="https://www.codechef.com/users/yuvikahakoo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="yuvikahakoo" height="30" width="40" /></a>
+<a href="https://x.com/YuvikaHakoo"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/x-social-media-black-icon.png" height="30" width="40"/></a>
+
+
 </p>
 <br><br>
 <h3 align="left">Languages and Tools:</h3>
